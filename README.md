@@ -38,13 +38,14 @@ There are many great tools and materials available for prototyping custom sensor
 
 
 ### Schedule
-
+*Note: Links to some resources below will require NYU log in.*
 #### Day 1
 * Syllabus Overview
-* Introductions
+* [Introductions](https://docs.google.com/presentation/d/1v-qGWF742IDbqaiEk7Olw94t_Wm5go_cdlGAIbWtnEk/edit?usp=sharing)
 * Lecture
 * Lab Demos & Review
-** High Five Gloves
+** [E-Textile Tester](https://docs.google.com/presentation/d/1QshHvdE0IaO9kkqFCi852OaByoklvliSoAh-K_VpTMc/edit?usp=sharing)
+** [High Five Gloves](https://drive.google.com/file/d/1LuGJsPZN_3HJk50zT-oT3i5lttD0vF_a/view?usp=drive_link)
 ** Digital Textile Switches
 ** Analog Textile Sensors
 * End-of-Day Discussion
