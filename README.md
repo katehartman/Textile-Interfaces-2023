@@ -42,12 +42,12 @@ There are many great tools and materials available for prototyping custom sensor
 #### Day 1
 * Syllabus Overview
 * [Introductions](https://docs.google.com/presentation/d/1v-qGWF742IDbqaiEk7Olw94t_Wm5go_cdlGAIbWtnEk/edit?usp=sharing)
-* Lecture
+* [Lecture slides](https://docs.google.com/presentation/d/15um5fICr2ErjvcxcRoCKkGYdyP1ZXGAubb04Fh1H4pk/edit?usp=sharing) (used throughout the day)
 * Lab Demos & Review
-** [E-Textile Tester](https://docs.google.com/presentation/d/1QshHvdE0IaO9kkqFCi852OaByoklvliSoAh-K_VpTMc/edit?usp=sharing)
-** [High Five Gloves](https://drive.google.com/file/d/1LuGJsPZN_3HJk50zT-oT3i5lttD0vF_a/view?usp=drive_link)
-** Digital Textile Switches
-** Analog Textile Sensors
+	* [E-Textile Tester](https://docs.google.com/presentation/d/1QshHvdE0IaO9kkqFCi852OaByoklvliSoAh-K_VpTMc/edit?usp=sharing)
+	* [High Five Gloves](https://drive.google.com/file/d/1LuGJsPZN_3HJk50zT-oT3i5lttD0vF_a/view?usp=drive_link)
+	* [Digital Textile Switches](https://docs.google.com/presentation/d/1NfcSesc3RTrtERxcKyXCUKHa5-p3hK47RjcTfMgEUD4/edit?usp=sharing)
+	* [Analog Textile Sensors](https://docs.google.com/presentation/d/1OEQysz5mvxJ0CS4j81U9Ojux7LsvdZOSwo4DoI6-ias/edit?usp=sharing)
 * End-of-Day Discussion
 
 #### Day 2
@@ -58,8 +58,8 @@ There are many great tools and materials available for prototyping custom sensor
 
 ### Evaluation
 * Physical Samples & Documentation 80%
-** Lab Outcomes - 40%
-** Textile Game Controller - 40%
+	* Lab Outcomes - 40%
+	* Textile Game Controller - 40%
 * Participation - 20% \
 *Participation includes being prepared for class with proper materials, contributing to discussions, and actively participating in in-class activities.*
 
