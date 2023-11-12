@@ -51,10 +51,10 @@ There are many great tools and materials available for prototyping custom sensor
 * End-of-Day Discussion
 
 #### Day 2
-* Textile Game Controller sprint
-* Course Evaluations
+* [Textile Game Controller](https://docs.google.com/presentation/d/1TGTI68YmSDYI1IeCEvAuSHb1JjG1UY91ObXVeRGYqn0/edit?usp=sharing) sprint
 * Playtests & Demos
-* Closing Discussion + Resources for Future Work
+* Closing Discussion + Review of Final Deliverables
+* Reminder: Please do Course Evaluations today!
 
 ### Evaluation
 * Physical Samples & Documentation 80%
