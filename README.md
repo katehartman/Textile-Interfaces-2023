@@ -53,7 +53,7 @@ There are many great tools and materials available for prototyping custom sensor
 #### Day 2
 * [Textile Game Controller](https://docs.google.com/presentation/d/1TGTI68YmSDYI1IeCEvAuSHb1JjG1UY91ObXVeRGYqn0/edit?usp=sharing) sprint
 * Playtests & Demos
-* Closing Discussion + Review of Final Deliverables
+* Closing Discussion
 * Reminder: Please do Course Evaluations today!
 
 ### Evaluation
@@ -64,7 +64,41 @@ There are many great tools and materials available for prototyping custom sensor
 *Participation includes being prepared for class with proper materials, contributing to discussions, and actively participating in in-class activities.*
 
 ### Documentation
-This course is focused on quick rounds of learning, making, and testing. The process work that you create IS the final assignment, so it is essential that you document your work as you go. Make an effort to produce clean and clear materials – well-lit and well-composed images and thoughtful and well-edited writing, data collection, and notes. Use documentation for an opportunity for synthesis and reflection. This will help to inform future projects.
+This course is focused on quick rounds of learning, making, and testing. It is essential to document your work as you go. Make an effort to produce clean and clear materials – well-lit and well-composed images and thoughtful and well-edited writing, data collection, and notes. Use documentation for an opportunity for synthesis and reflection. This will help to inform future projects.
+
+### Deliverables
+
+* **Deadline:** Monday, November 20, 2023, end-of-day, AOE
+* **Submission Link:** https://forms.gle/VNUWnBYibhczdS6e9
+
+Documentation of all works created for this course are submitted as a single blog post. This includes:
+* E-Textile Tester
+* High-Five Gloves
+* Digital Textile Switches
+	* A push button
+	* More than one digital switch with a shared ground
+* Analog Textile Sensor 
+* Textile Game Controller
+
+As the final project for the course, the Textile Game Controller should be covered in more detail. Include the following:
+* project title
+* project description, including
+	* general concept - is it a wearable? A handheld? Part of the furniture? Mounted on the floor or wall?
+* how the game controller works 
+	* digital switches? 
+	* analog sensors?
+	* both?
+* photos of the controller (pay attention to focus, composition, background, and context)
+* a video (60 seconds max) of the game controller in use with the Pong game
+* materials list - be specific
+* circuit diagram, only if different from the example
+* code, only if different from the example
+* any additional items
+	* process photos and/or notes
+	* explanation of design choices
+	* any supporting illustrations or diagrams
+	* lessons learned / next steps
+
 
 
 ### Bibliography

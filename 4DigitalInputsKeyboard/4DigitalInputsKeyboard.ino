@@ -12,10 +12,10 @@
 
 // Variables that won't change
 
-const int buttonPin1 = 3;  // CPX A4
-const int buttonPin2 = 2;  // CPX A5
-const int buttonPin3 = 0;  // CPX A6
-const int buttonPin4 = 1;  // CPX A7
+const int buttonPin1 = 1;  // CPX A4
+const int buttonPin2 = 0;  // CPX A5
+const int buttonPin3 = 2;  // CPX A6
+const int buttonPin4 = 3;  // CPX A7
 
 const int keyboardKey1 = KEY_UP_ARROW;
 const int keyboardKey2 = KEY_DOWN_ARROW;
